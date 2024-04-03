@@ -1,0 +1,23 @@
+{
+    "name": "MintSwap",
+    "logoURI": "https://assets.coingecko.com/coins/images/33745/thumb/volumint_200x200px_clearbg.png?1702924153",
+    "keywords": [
+        "defi"
+    ],
+    "timestamp": "2024-04-03T07:03:02.642+00:00",
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "0xd7b2c1a7f3c67fb0ea57a7ef29bc1f18d7be3195",
+            "name": "VoluMint",
+            "symbol": "VMINT",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/33745/thumb/volumint_200x200px_clearbg.png?1702924153"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 1,
+        "patch": 0
+    }
+}
