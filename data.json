@@ -13,6 +13,14 @@
             "symbol": "VMINT",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/33745/thumb/volumint_200x200px_clearbg.png?1702924153"
+        },
+         {
+            "chainId": 1,
+            "address": "0xeBB1AFb0A4ddC9b1f84D9Aa72FF956cD1c1Eb4be",
+            "name": "The Emerald Company",
+            "symbol": "EMRLD",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/36554/standard/emrld_logo_200x200px.png?1711898920"
         }
     ],
     "version": {
